@@ -1,5 +1,5 @@
 
-![Girlcode](https://girlcode.co.za/wp-content/uploads/2022/11/Social-Media-Banner.png)
+![Girlcode](../assests/images/SocialMediaBanner.webp)
 
 # Hello 👋
 
