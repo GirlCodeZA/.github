@@ -1,5 +1,5 @@
 
-![Girlcoders](https://girlcode-website.onrender.com/static/media/girlcode_students.80e3edd92a30148ec90f.webp)
+![Girlcode](https://girlcode.co.za/wp-content/uploads/2022/11/Social-Media-Banner.png)
 
 # Hello 👋
 
